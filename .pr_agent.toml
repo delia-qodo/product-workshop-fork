@@ -8,7 +8,7 @@ strategy = "auto"
 
 [suggestions]
 enabled = true
-num_suggestions = 3
+num_suggestions = 15
 
 [walkthrough]
 enabled = true
